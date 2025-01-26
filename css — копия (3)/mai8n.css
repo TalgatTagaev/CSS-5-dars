@@ -1,0 +1,38 @@
+.box{
+    width: 1200px;
+    margin: 0 auto;
+}
+.img{
+    width: 300px;
+    height: 550px;
+    border: ridge;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 24px 24px;
+    float: left;
+    margin: 30px;
+    margin-top: -150px;
+}
+.i{
+    width: 200px;
+    height: 100px;
+}
+.rasm-1{
+    width: 200px;
+    height: 300px;
+    margin-left: 430px;
+    margin-top: 10px;
+}
+.rasm-2{
+    width: 200px;
+    height: 300px;
+    margin-left: 890px;
+    margin-top: -270px;
+}
+.a{
+    margin-left: 60px;
+    color: green;
+}
+.clear{
+    clear: both;
+}

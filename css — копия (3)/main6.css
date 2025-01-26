@@ -1,0 +1,18 @@
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.box-item{
+    width: 250px;
+    height: 300px;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
+.clear{
+    clear: both;
+}
